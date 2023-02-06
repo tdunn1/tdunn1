@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tdunn1
+- 👋 Hi, I’m Tim
 - 👀 I’m interested in Cheminformatics
 - 🌱 I’m currently learning DeepChem
 
