@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tim
 - 👀 I’m interested in Cheminformatics
-- 🌱 I’m currently learning DeepChem
+- 🌱 I’m currently learning about common algorithms and ML.
 
 Recent Chemistry PhD graduate from UF.
 
